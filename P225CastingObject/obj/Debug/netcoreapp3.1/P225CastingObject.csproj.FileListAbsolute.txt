@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P225\Task\P225CastingObject\bin\Debug\netcoreapp3.1\P225CastingObject.exe
+C:\Users\memme\Desktop\P225\Task\P225CastingObject\bin\Debug\netcoreapp3.1\P225CastingObject.deps.json
+C:\Users\memme\Desktop\P225\Task\P225CastingObject\bin\Debug\netcoreapp3.1\P225CastingObject.runtimeconfig.json
+C:\Users\memme\Desktop\P225\Task\P225CastingObject\bin\Debug\netcoreapp3.1\P225CastingObject.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P225\Task\P225CastingObject\bin\Debug\netcoreapp3.1\P225CastingObject.dll
+C:\Users\memme\Desktop\P225\Task\P225CastingObject\bin\Debug\netcoreapp3.1\P225CastingObject.pdb
+C:\Users\memme\Desktop\P225\Task\P225CastingObject\obj\Debug\netcoreapp3.1\P225CastingObject.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P225\Task\P225CastingObject\obj\Debug\netcoreapp3.1\P225CastingObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P225\Task\P225CastingObject\obj\Debug\netcoreapp3.1\P225CastingObject.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225CastingObject\obj\Debug\netcoreapp3.1\P225CastingObject.AssemblyInfo.cs
+C:\Users\memme\Desktop\P225\Task\P225CastingObject\obj\Debug\netcoreapp3.1\P225CastingObject.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225CastingObject\obj\Debug\netcoreapp3.1\P225CastingObject.dll
+C:\Users\memme\Desktop\P225\Task\P225CastingObject\obj\Debug\netcoreapp3.1\P225CastingObject.pdb
+C:\Users\memme\Desktop\P225\Task\P225CastingObject\obj\Debug\netcoreapp3.1\P225CastingObject.genruntimeconfig.cache

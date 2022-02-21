@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P225\Task\P225ImplicityExplicity\bin\Debug\netcoreapp3.1\P225ImplicityExplicity.exe
+C:\Users\memme\Desktop\P225\Task\P225ImplicityExplicity\bin\Debug\netcoreapp3.1\P225ImplicityExplicity.deps.json
+C:\Users\memme\Desktop\P225\Task\P225ImplicityExplicity\bin\Debug\netcoreapp3.1\P225ImplicityExplicity.runtimeconfig.json
+C:\Users\memme\Desktop\P225\Task\P225ImplicityExplicity\bin\Debug\netcoreapp3.1\P225ImplicityExplicity.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P225\Task\P225ImplicityExplicity\bin\Debug\netcoreapp3.1\P225ImplicityExplicity.dll
+C:\Users\memme\Desktop\P225\Task\P225ImplicityExplicity\bin\Debug\netcoreapp3.1\P225ImplicityExplicity.pdb
+C:\Users\memme\Desktop\P225\Task\P225ImplicityExplicity\obj\Debug\netcoreapp3.1\P225ImplicityExplicity.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P225\Task\P225ImplicityExplicity\obj\Debug\netcoreapp3.1\P225ImplicityExplicity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P225\Task\P225ImplicityExplicity\obj\Debug\netcoreapp3.1\P225ImplicityExplicity.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225ImplicityExplicity\obj\Debug\netcoreapp3.1\P225ImplicityExplicity.AssemblyInfo.cs
+C:\Users\memme\Desktop\P225\Task\P225ImplicityExplicity\obj\Debug\netcoreapp3.1\P225ImplicityExplicity.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225ImplicityExplicity\obj\Debug\netcoreapp3.1\P225ImplicityExplicity.dll
+C:\Users\memme\Desktop\P225\Task\P225ImplicityExplicity\obj\Debug\netcoreapp3.1\P225ImplicityExplicity.pdb
+C:\Users\memme\Desktop\P225\Task\P225ImplicityExplicity\obj\Debug\netcoreapp3.1\P225ImplicityExplicity.genruntimeconfig.cache
